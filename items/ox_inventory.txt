@@ -1,0 +1,10 @@
+	['hackcard'] = {
+		label = 'Dešifrovacie zariadnie',
+		weight = 15
+	},
+
+	['decryptomatic'] = {
+		label = 'Decrypt o matic',
+		weight = 100,
+		stack = false
+	},
